@@ -295,18 +295,21 @@ Worked on identity and access governance, cybersecurity assessments, and infrast
 ## 📊 GitHub Analytics
 
 <div align="center">
-
+<!--
 <img src="https://github-readme-stats.vercel.app/api?username=bhushan1010&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0F0524&title_color=A78BFA&icon_color=8B5CF6&text_color=E9D5FF&ring_color=7C3AED" width="49%"/>
+-->
+  
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=bhushan1010&theme=tokyonight&hide_border=true&background=0F0524&ring=8B5CF6&fire=A78BFA&currStreakLabel=E9D5FF" width="49%"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhushan1010&layout=compact&theme=tokyonight&hide_border=true&bg_color=0F0524&title_color=A78BFA&text_color=E9D5FF" width="49%"/>
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=bhushan1010&layout=compact&theme=tokyonight&hide_border=true&bg_color=0F0524&title_color=A78BFA&text_color=E9D5FF" width="49%"/>
+
+
 
 </div>
 
 <br/>
 
----
-
+<!--
 ## 🏅 GitHub Trophies
 
 <div align="center">
@@ -317,7 +320,7 @@ Worked on identity and access governance, cybersecurity assessments, and infrast
 
 <br/>
 
----
+--->
 
 ## 📈 Contribution Activity
 
