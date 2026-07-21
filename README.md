@@ -258,26 +258,6 @@ Worked on identity and access governance, cybersecurity assessments, and infrast
 
 <br/>
 
----
-
-## 📜 Certifications
-
-**AWS**
-
-<img src="https://img.shields.io/badge/AWS%20Certified%20Solutions%20Architect-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-<img src="https://img.shields.io/badge/AWS%20Certified%20Technology%20Consultant-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-
-**Google**
-
-<img src="https://img.shields.io/badge/Google%20Project%20Management-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
-
-**Cisco**
-
-<img src="https://img.shields.io/badge/Cisco%20CCNA-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/>
-
-<br/>
-
----
 
 ## 💻 Coding Profiles
 
