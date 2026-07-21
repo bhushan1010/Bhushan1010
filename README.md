@@ -349,6 +349,25 @@ Worked on identity and access governance, cybersecurity assessments, and infrast
 
 ---
 
+<br/>
+
+---
+
+## 🗺️ Roadmap.sh Progress
+
+<div align="center">
+
+<a href="https://roadmap.sh">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://roadmap.sh/card/wide/6a2a5cb89e61e7fe1324d178?variant=dark&roadmaps=%2Cdevops%2Cmlops">
+  <source media="(prefers-color-scheme: light)" srcset="https://roadmap.sh/card/wide/6a2a5cb89e61e7fe1324d178?variant=light&roadmaps=%2Cdevops%2Cmlops">
+  <img src="https://roadmap.sh/card/wide/6a2a5cb89e61e7fe1324d178?variant=dark&roadmaps=%2Cdevops%2Cmlops" alt="Bhushan's DevOps & MLOps Roadmap.sh Progress" width="90%"/>
+</picture>
+</a>
+
+</div>
+
+
 ## 🎯 Current Focus
 
 ```yaml
